@@ -1,0 +1,8 @@
+﻿  Lab-S.cpp
+C:\Users\백채윤\Desktop\쓰레기\Project12\Project1\Lab-S.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\백채윤\Desktop\쓰레기\Project12\Project1\Lab-S.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Project1.vcxproj -> C:\Users\백채윤\Desktop\쓰레기\Project12\Release\Project1.exe
